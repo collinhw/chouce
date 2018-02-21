@@ -21,7 +21,14 @@
 }
 
 
-.text.welcome {
+.text.welcome  {
+  padding-top: 20px;
+  padding-left: 160px;
+  font-size: 17px;
+}
+
+.text.des{
+  color: #FFFFFF;
   padding-top: 20px;
   padding-left: 160px;
   font-size: 17px;
